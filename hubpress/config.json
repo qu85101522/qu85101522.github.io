@@ -2,10 +2,11 @@
   "meta": {
     "username": "qu85101522",
     "repositoryName": "qu85101522.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
-    "name": "casper"
+    "name": "uno-zen"
   },
   "urls": {
     "site": "https://qu85101522.github.io",
@@ -23,5 +24,27 @@
       null
     ],
     "_Ctor": {}
+  },
+  "site": {
+    "title": "AAApx",
+    "description": "强迫症一枚",
+    "logo": "https://drive.aaapx.com/bigmonster.png?imageMogr2/format/webp",
+    "cover": "https://ooo.0o0.ooo/2017/05/28/592a2e5526f22.jpg",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   }
 }
