@@ -1,10 +1,27 @@
 {
   "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
+    "username": "qu85101522",
+    "repositoryName": "qu85101522.github.io",
     "branch": "master"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://qu85101522.github.io",
+    "hubpress": "https://hunter-dolly-10436.netlify.com",
+    "theme": "//qu85101522.github.io/themes/casper",
+    "images": "https://qu85101522.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_Ctor": {}
   }
 }
