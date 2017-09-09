@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://qu85101522.github.io",
     "hubpress": "https://hunter-dolly-10436.netlify.com",
-    "theme": "//qu85101522.github.io/themes/casper",
+    "theme": "//qu85101522.github.io/themes/uno-zen",
     "images": "https://qu85101522.github.io/images"
   },
   "initialisationConfigComponent": {
@@ -26,7 +26,7 @@
     "_Ctor": {}
   },
   "site": {
-    "title": "",
+    "title": "AAApx",
     "description": "",
     "logo": "",
     "cover": "",
