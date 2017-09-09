@@ -1,7 +1,6 @@
 =  文章测试
-// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
 hp-image: https://drive.aaapx.com/17-7-1/33919946.jpg?imageMogr2/format/webp
-date: 2019-9-9
+published_at: 2019-9-9
 hp-tags: HubPress, Blog, Open_Source,
 hp-alt-title: My English Title
 
