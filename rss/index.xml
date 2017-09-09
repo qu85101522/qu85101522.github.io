@@ -1,1 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[AAApx]]></title><description><![CDATA[强迫症一枚]]></description><link>https://qu85101522.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 09 Sep 2017 05:48:21 GMT</lastBuildDate><atom:link href="https://qu85101522.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[AAApx]]></title><description><![CDATA[强迫症一枚]]></description><link>https://qu85101522.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 09 Sep 2017 06:28:59 GMT</lastBuildDate><atom:link href="https://qu85101522.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[文章测试]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>hp-tags: HubPress, Blog, Open_Source,
+hp-alt-title: My English Title</p>
+</div>
+<hr>
+</div>
+</div>
+<div class="sect3">
+<h4 id="__">《春宫曲》</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>昨夜风开露井桃，</p>
+</li>
+<li>
+<p>未央前殿月轮高。</p>
+</li>
+</ul>
+</div>
+</div>]]></description><link>https://qu85101522.github.io2017-09-09adoc.adoc</link><guid isPermaLink="true">https://qu85101522.github.io2017-09-09adoc.adoc</guid><pubDate>Invalid Date</pubDate></item><item><title><![CDATA[AsciiDoc is Writing Zen]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p><em>Zen</em> in the <strong>art</strong> of writing <code>plain text</code> with
+<a href="http://asciidoc.org">AsciiDoc</a>.</p>
+</div>
+<div class="admonitionblock tip">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-tip" title="Tip"></i>
+</td>
+<td class="content">
+Use <a href="http://asciidoctor.org">Asciidoctor</a> for the best AsciiDoc
+experience.<sup class="footnote">[<a id="_footnoteref_1" class="footnote" href="#_footnote_1" title="View footnote.">1</a>]</sup>
+Then iccn:twitter[role=aqua] about it!
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_sample_section">Sample Section</h2>
+<div class="sectionbody">
+<div class="ulist square">
+<ul class="square">
+<li>
+<p>item 1</p>
+</li>
+<li>
+<p>item 2</p>
+</li>
+</ul>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlight"><code class="language-ruby" data-lang="ruby">puts “Hello, World</code></pre>
+</div>
+</div>
+</div>
+</div>
+<div id="footnotes">
+<hr>
+<div class="footnote" id="_footnote_1">
+<a href="#_footnoteref_1">1</a>. Not to mention the best looking output!
+</div>
+</div>]]></description><link>https://qu85101522.github.io/2017/09/09/Ascii-Doc-is-Writing-Zen.html</link><guid isPermaLink="true">https://qu85101522.github.io/2017/09/09/Ascii-Doc-is-Writing-Zen.html</guid><pubDate>Sat, 09 Sep 2017 00:00:00 GMT</pubDate></item></channel></rss>
